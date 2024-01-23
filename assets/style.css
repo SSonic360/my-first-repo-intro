@@ -1,1 +1,83 @@
 /* Copy your CSS code from CodePen below this point */
+.menu {
+    text-align: center;
+    width: 800px;
+  }
+  
+  h1 {
+    color: #fb8501;
+    font-family: Tahoma;
+    font-size: 30px;
+  }
+  
+  h2 {
+    color: #fb8501;
+    font-family: Tahoma;
+  }
+  
+  h3 {
+    color: #d62928;
+    font-family: Tahoma;
+  }
+  
+  h4 {
+    color: #003049;
+    font-family: Tahoma;
+  }
+  
+  p {
+    color: #003049;
+    font-family: Tahoma;
+  }
+  
+  .menu-item-description {
+    line-height: 20px;
+    padding: 15px;
+  }
+  
+  .wrap-note {
+    font-style: italic;
+  }
+  
+  .favorites-image {
+    width: 250px;
+    height: 175px;
+    margin: 10px;
+  }
+  
+  .social-media-image {
+    height: 40px;
+    width: 40px;
+    margin: 25px;
+  }
+  
+  .favorites-gallery {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .social-media-section {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-header {
+    width: 100%;
+    height: 50%;
+    display: flex;
+  }
+  
+  .image-aboutus {
+    width: 50%;
+    height: 50%;
+    display: flex;
+  }
+  
+  .footer {
+    text-align: center;
+  }
+  
+  .hidden-on-load {
+    display: none;
+  }
+  
